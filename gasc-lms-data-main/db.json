@@ -1,0 +1,1418 @@
+{
+
+  "books": [
+    {
+      "id": "613",
+      "title": "Algebra Analytical Geometry of Trignometry",
+      "author": "P. R. Vital, V. Malini",
+      "department": "Mathematics",
+      "price": "130",
+      "publisher": "Margam Publisher Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "614",
+      "title": "Algebra Analytical Geometry of Trignometry",
+      "author": "P. R. Vital, V. Malini",
+      "department": "Mathematics",
+      "price": "130",
+      "publisher": "Margam Publisher Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "615",
+      "title": "Algebra Analytical Geometry of Trignometry",
+      "author": "P. R. Vital, V. Malini",
+      "department": "Mathematics",
+      "price": "130",
+      "publisher": "MargamPublisher Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "616",
+      "title": "Methods of Real Analysis",
+      "author": "R. R. Gordbery",
+      "department": "Mathematics",
+      "price": "250",
+      "publisher": "Margam Publisher Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "617",
+      "title": "Methods of Real Analysis",
+      "author": "R. R. Gordbery",
+      "department": "Mathematics",
+      "price": "250",
+      "publisher": "Margam Publisher Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "618",
+      "title": "Methods of Real Analysis",
+      "author": "R. R. Gordbery",
+      "department": "Mathematics",
+      "price": "250",
+      "publisher": "Margam Publisher Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "619",
+      "title": "Methods of Real Analysis",
+      "author": "R. R. Gordbery",
+      "department": "Mathematics",
+      "price": "250",
+      "publisher": "Margam Publisher Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "620",
+      "title": "Methods of Real Analysis",
+      "author": "R. R. Gordbery",
+      "department": "Mathematics",
+      "price": "250",
+      "publisher": "Margam Publisher Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "621",
+      "title": "Quantitative Aptitude and Reasoning",
+      "author": "R. V. Pravean",
+      "department": "Mathematics",
+      "price": "395",
+      "publisher": "PHI Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "622",
+      "title": "Quantitative Aptitude and Reasoning",
+      "author": "R. V. Pravean",
+      "department": "Mathematics",
+      "price": "395",
+      "publisher": "PHI Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "623",
+      "title": "Quantitative Aptitude and Reasoning",
+      "author": "R. V. Pravean",
+      "department": "Mathematics",
+      "price": "395",
+      "publisher": "PHI Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "624",
+      "title": "Quantitative Aptitude and Reasoning",
+      "author": "R. V. Pravean",
+      "department": "Mathematics",
+      "price": "395",
+      "publisher": "PHI Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "625",
+      "title": "Quantitative Aptitude and Reasoning",
+      "author": "R. V. Pravean",
+      "department": "Mathematics",
+      "price": "395",
+      "publisher": "PHI Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "626",
+      "title": "Quantitative Aptitude",
+      "author": "R. S. Agarwal",
+      "department": "Mathematics",
+      "price": "440",
+      "publisher": "S.Chand & Co Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "627",
+      "title": "Quantitative Aptitude",
+      "author": "R. S. Agarwal",
+      "department": "Mathematics",
+      "price": "440",
+      "publisher": "S.Chand & Co Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "628",
+      "title": "Quantitative Aptitude",
+      "author": "R. S. Agarwal",
+      "department": "Mathematics",
+      "price": "440",
+      "publisher": "S.Chand & Co Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "629",
+      "title": "Quantitative Aptitude",
+      "author": "R. S. Agarwal",
+      "department": "Mathematics",
+      "price": "440",
+      "publisher": "S.Chand & Co Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "630",
+      "title": "Quantitative Aptitude",
+      "author": "R. S. Agarwal",
+      "department": "Mathematics",
+      "price": "440",
+      "publisher": "S.Chand & Co Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "631",
+      "title": "Trigonemetry",
+      "author": "S. Narayanan",
+      "department": "Mathematics",
+      "price": "75",
+      "publisher": "S. Vishwanathan Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "632",
+      "title": "Trigonemetry",
+      "author": "S. Narayanan",
+      "department": "Mathematics",
+      "price": "75",
+      "publisher": "S. Vishwanathan Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "633",
+      "title": "Trigonemetry",
+      "author": "S. Narayanan",
+      "department": "Mathematics",
+      "price": "75",
+      "publisher": "S. Vishwanathan Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "634",
+      "title": "Trigonemetry",
+      "author": "S. Narayanan",
+      "department": "Mathematics",
+      "price": "75",
+      "publisher": "S. Vishwanathan Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "635",
+      "title": "Trigonemetry",
+      "author": "S. Narayanan",
+      "department": "Mathematics",
+      "price": "75",
+      "publisher": "S. Vishwanathan Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "636",
+      "title": "Machanics",
+      "author": "S. Durai Pandiyan",
+      "department": "Mathematics",
+      "price": "225",
+      "publisher": "S.Chand & Co Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "637",
+      "title": "Machanics",
+      "author": "S. Durai Pandiyan",
+      "department": "Mathematics",
+      "price": "225",
+      "publisher": "S.Chand & Co Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "638",
+      "title": "Machanics",
+      "author": "S. Durai Pandiyan",
+      "department": "Mathematics",
+      "price": "225",
+      "publisher": "S.Chand & Co Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "639",
+      "title": "Machanics",
+      "author": "S. Durai Pandiyan",
+      "department": "Mathematics",
+      "price": "225",
+      "publisher": "S.Chand & Co Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "640",
+      "title": "Machanics",
+      "author": "S. Durai Pandiyan",
+      "department": "Mathematics",
+      "price": "225",
+      "publisher": "S.Chand & Co Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "641",
+      "title": "Algebra Volume I",
+      "author": "T.K. Manichavasagham Pillai, T. Nagarajan",
+      "department": "Mathematics",
+      "price": "115",
+      "publisher": "S. Vishwanathan Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "642",
+      "title": "Algebra Volume I",
+      "author": "T.K. Manichavasagham Pillai, T. Nagarajan",
+      "department": "Mathematics",
+      "price": "115",
+      "publisher": "S. Vishwanathan Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "643",
+      "title": "Caluculas Volume I",
+      "author": "T. Nagarajan",
+      "department": "Mathematics",
+      "price": "115",
+      "publisher": "S. Vishwanathan Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "644",
+      "title": "Caluculas Volume I",
+      "author": "T. Nagarajan",
+      "department": "Mathematics",
+      "price": "115",
+      "publisher": "S. Vishwanathan Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "645",
+      "title": "Caluculas Volume I",
+      "author": "T. Nagarajan",
+      "department": "Mathematics",
+      "price": "115",
+      "publisher": "S. Vishwanathan Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "646",
+      "title": "Caluculas Volume I",
+      "author": "T. Nagarajan",
+      "department": "Mathematics",
+      "price": "115",
+      "publisher": "S. Vishwanathan Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "647",
+      "title": "Caluculas Volume I",
+      "author": "T. Nagarajan",
+      "department": "Mathematics",
+      "price": "115",
+      "publisher": "S. Vishwanathan Chennai",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "648",
+      "title": "An Elementary Introduction Mathemtical Finance",
+      "author": "Shelcler M. Ross",
+      "department": "Mathematics",
+      "price": "325",
+      "publisher": "Cambridge",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "649",
+      "title": "An Elementary Introduction Mathemtical Finance",
+      "author": "Shelcler M. Ross",
+      "department": "Mathematics",
+      "price": "325",
+      "publisher": "Cambridge",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "650",
+      "title": "An Elementary Introduction Mathemtical Finance",
+      "author": "Shelcler M. Ross",
+      "department": "Mathematics",
+      "price": "325",
+      "publisher": "Cambridge",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "651",
+      "title": "An Elementary Introduction Mathemtical Finance",
+      "author": "Shelcler M. Ross",
+      "department": "Mathematics",
+      "price": "325",
+      "publisher": "Cambridge",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "652",
+      "title": "An Elementary Introduction Mathemtical Finance",
+      "author": "Shelcler M. Ross",
+      "department": "Mathematics",
+      "price": "325",
+      "publisher": "Cambridge",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "653",
+      "title": "Numerical Mehods",
+      "author": "E. BalaGurusamy",
+      "department": "Mathematics",
+      "price": "395",
+      "publisher": "Tata Mc Grow Hill Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "654",
+      "title": "Numerical Mehods",
+      "author": "E. BalaGurusamy",
+      "department": "Mathematics",
+      "price": "395",
+      "publisher": "Tata Mc Grow Hill Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "655",
+      "title": "Numerical Mehods",
+      "author": "E. BalaGurusamy",
+      "department": "Mathematics",
+      "price": "395",
+      "publisher": "Tata Mc Grow Hill Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "656",
+      "title": "Numerical Mehods",
+      "author": "E. BalaGurusamy",
+      "department": "Mathematics",
+      "price": "395",
+      "publisher": "Tata Mc Grow Hill Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "657",
+      "title": "Numerical Mehods",
+      "author": "E. BalaGurusamy",
+      "department": "Mathematics",
+      "price": "395",
+      "publisher": "Tata Mc Grow Hill Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "658",
+      "title": "Numerical Mehthods for Engineer",
+      "author": "Sterew C. Chopra",
+      "department": "Mathematics",
+      "price": "550",
+      "publisher": "Tata Mc Grow Hill Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "659",
+      "title": "Numerical Mehthods for Engineer",
+      "author": "Sterew C. Chopra",
+      "department": "Mathematics",
+      "price": "550",
+      "publisher": "Tata Mc Grow Hill Delhi",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "2795",
+      "title": "Electricity and Magnetism",
+      "author": "Edward M. Purcell",
+      "department": "Physics",
+      "price": "450",
+      "publisher": "McGraw Hill",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "2796",
+      "title": "Electricity and Magnetism",
+      "author": "Edward M. Purcell",
+      "department": "Physics",
+      "price": "450",
+      "publisher": "McGraw Hill",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "2797",
+      "title": "Electricity and Magnetism",
+      "author": "Edward M. Purcell",
+      "department": "Physics",
+      "price": "450",
+      "publisher": "McGraw Hill",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "2798",
+      "title": "Quantum Mechanics",
+      "author": "V. K. Thankappan",
+      "department": "Physics",
+      "price": "350",
+      "publisher": "Wiley Eastern",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "2799",
+      "title": "Quantum Mechanics",
+      "author": "V. K. Thankappan",
+      "department": "Physics",
+      "price": "350",
+      "publisher": "Wiley Eastern",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "2800",
+      "title": "Quantum Mechanics",
+      "author": "V. K. Thankappan",
+      "department": "Physics",
+      "price": "350",
+      "publisher": "Wiley Eastern",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "2801",
+      "title": "Solid State Physics",
+      "author": "C. Kittel",
+      "department": "Physics",
+      "price": "520",
+      "publisher": "Wiley",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "2802",
+      "title": "Solid State Physics",
+      "author": "C. Kittel",
+      "department": "Physics",
+      "price": "520",
+      "publisher": "Wiley",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "2803",
+      "title": "Solid State Physics",
+      "author": "C. Kittel",
+      "department": "Physics",
+      "price": "520",
+      "publisher": "Wiley",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "2804",
+      "title": "Thermal Physics",
+      "author": "S. K. Garg",
+      "department": "Physics",
+      "price": "480",
+      "publisher": "Tata McGraw Hill",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "2805",
+      "title": "Thermal Physics",
+      "author": "S. K. Garg",
+      "department": "Physics",
+      "price": "480",
+      "publisher": "Tata McGraw Hill",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "2806",
+      "title": "Electronics Devices and Circuits",
+      "author": "Boylestad",
+      "department": "Physics",
+      "price": "550",
+      "publisher": "Pearson",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "2807",
+      "title": "Electronics Devices and Circuits",
+      "author": "Boylestad",
+      "department": "Physics",
+      "price": "550",
+      "publisher": "Pearson",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "2808",
+      "title": "Optics",
+      "author": "Ajoy Ghatak",
+      "department": "Physics",
+      "price": "600",
+      "publisher": "McGraw Hill",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "2809",
+      "title": "Optics",
+      "author": "Ajoy Ghatak",
+      "department": "Physics",
+      "price": "600",
+      "publisher": "McGraw Hill",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "2810",
+      "title": "Nuclear Physics",
+      "author": "D. C. Tayal",
+      "department": "Physics",
+      "price": "390",
+      "publisher": "Himalaya Publishing",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "2811",
+      "title": "Nuclear Physics",
+      "author": "D. C. Tayal",
+      "department": "Physics",
+      "price": "390",
+      "publisher": "Himalaya Publishing",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "2812",
+      "title": "Classical Mechanics",
+      "author": "Goldstein",
+      "department": "Physics",
+      "price": "720",
+      "publisher": "Pearson",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "2813",
+      "title": "Classical Mechanics",
+      "author": "Goldstein",
+      "department": "Physics",
+      "price": "720",
+      "publisher": "Pearson",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "2814",
+      "title": "Mathematical Physics",
+      "author": "B. D. Gupta",
+      "department": "Physics",
+      "price": "410",
+      "publisher": "Vikas Publishing",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "2815",
+      "title": "Mathematical Physics",
+      "author": "B. D. Gupta",
+      "department": "Physics",
+      "price": "410",
+      "publisher": "Vikas Publishing",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "2816",
+      "title": "Atomic Physics",
+      "author": "J. B. Rajam",
+      "department": "Physics",
+      "price": "360",
+      "publisher": "S. Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "2817",
+      "title": "Atomic Physics",
+      "author": "J. B. Rajam",
+      "department": "Physics",
+      "price": "360",
+      "publisher": "S. Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "2818",
+      "title": "Electromagnetic Theory",
+      "author": "B. B. Laud",
+      "department": "Physics",
+      "price": "430",
+      "publisher": "Wiley Eastern",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "2819",
+      "title": "Electromagnetic Theory",
+      "author": "B. B. Laud",
+      "department": "Physics",
+      "price": "430",
+      "publisher": "Wiley Eastern",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "2820",
+      "title": "Statistical Mechanics",
+      "author": "Pathria",
+      "department": "Physics",
+      "price": "680",
+      "publisher": "Elsevier",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "2821",
+      "title": "Statistical Mechanics",
+      "author": "Pathria",
+      "department": "Physics",
+      "price": "680",
+      "publisher": "Elsevier",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "2822",
+      "title": "Modern Physics",
+      "author": "Arthur Beiser",
+      "department": "Physics",
+      "price": "590",
+      "publisher": "McGraw Hill",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "2823",
+      "title": "Modern Physics",
+      "author": "Arthur Beiser",
+      "department": "Physics",
+      "price": "590",
+      "publisher": "McGraw Hill",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5704",
+      "title": "Financial Accounting",
+      "author": "T. S. Grewal",
+      "department": "Commerce",
+      "price": "620",
+      "publisher": "Sultan Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5705",
+      "title": "Financial Accounting",
+      "author": "T. S. Grewal",
+      "department": "Commerce",
+      "price": "620",
+      "publisher": "Sultan Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5706",
+      "title": "Financial Accounting",
+      "author": "T. S. Grewal",
+      "department": "Commerce",
+      "price": "620",
+      "publisher": "Sultan Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5707",
+      "title": "Cost Accounting",
+      "author": "B. M. Lall",
+      "department": "Commerce",
+      "price": "540",
+      "publisher": "Himalaya Publishing",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5708",
+      "title": "Cost Accounting",
+      "author": "B. M. Lall",
+      "department": "Commerce",
+      "price": "540",
+      "publisher": "Himalaya Publishing",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5709",
+      "title": "Corporate Accounting",
+      "author": "R. L. Gupta",
+      "department": "Commerce",
+      "price": "580",
+      "publisher": "Sultan Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5710",
+      "title": "Corporate Accounting",
+      "author": "R. L. Gupta",
+      "department": "Commerce",
+      "price": "580",
+      "publisher": "Sultan Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5711",
+      "title": "Business Law",
+      "author": "N. D. Kapoor",
+      "department": "Commerce",
+      "price": "495",
+      "publisher": "Sultan Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5712",
+      "title": "Business Law",
+      "author": "N. D. Kapoor",
+      "department": "Commerce",
+      "price": "495",
+      "publisher": "Sultan Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5713",
+      "title": "Principles of Management",
+      "author": "P. C. Tripathi",
+      "department": "Commerce",
+      "price": "450",
+      "publisher": "McGraw Hill",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5714",
+      "title": "Principles of Management",
+      "author": "P. C. Tripathi",
+      "department": "Commerce",
+      "price": "450",
+      "publisher": "McGraw Hill",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5715",
+      "title": "Marketing Management",
+      "author": "Philip Kotler",
+      "department": "Commerce",
+      "price": "720",
+      "publisher": "Pearson",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5716",
+      "title": "Marketing Management",
+      "author": "Philip Kotler",
+      "department": "Commerce",
+      "price": "720",
+      "publisher": "Pearson",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5717",
+      "title": "Human Resource Management",
+      "author": "C. B. Gupta",
+      "department": "Commerce",
+      "price": "510",
+      "publisher": "Sultan Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5718",
+      "title": "Human Resource Management",
+      "author": "C. B. Gupta",
+      "department": "Commerce",
+      "price": "510",
+      "publisher": "Sultan Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5719",
+      "title": "Business Economics",
+      "author": "H. L. Ahuja",
+      "department": "Commerce",
+      "price": "460",
+      "publisher": "S. Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5720",
+      "title": "Business Economics",
+      "author": "H. L. Ahuja",
+      "department": "Commerce",
+      "price": "460",
+      "publisher": "S. Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5721",
+      "title": "Auditing",
+      "author": "B. N. Tandon",
+      "department": "Commerce",
+      "price": "480",
+      "publisher": "Sultan Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5722",
+      "title": "Auditing",
+      "author": "B. N. Tandon",
+      "department": "Commerce",
+      "price": "480",
+      "publisher": "Sultan Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5723",
+      "title": "Auditing",
+      "author": "B. N. Tandon",
+      "department": "Commerce",
+      "price": "480",
+      "publisher": "Sultan Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5724",
+      "title": "Income Tax Law and Practice",
+      "author": "Mehrotra",
+      "department": "Commerce",
+      "price": "690",
+      "publisher": "Sahitya Bhavan",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5725",
+      "title": "Income Tax Law and Practice",
+      "author": "Mehrotra",
+      "department": "Commerce",
+      "price": "690",
+      "publisher": "Sahitya Bhavan",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5726",
+      "title": "Income Tax Law and Practice",
+      "author": "Mehrotra",
+      "department": "Commerce",
+      "price": "690",
+      "publisher": "Sahitya Bhavan",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5727",
+      "title": "Income Tax Law and Practice",
+      "author": "Mehrotra",
+      "department": "Commerce",
+      "price": "690",
+      "publisher": "Sahitya Bhavan",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5728",
+      "title": "Banking Theory Law and Practice",
+      "author": "Sundaram & Varshney",
+      "department": "Commerce",
+      "price": "560",
+      "publisher": "Sultan Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5729",
+      "title": "Banking Theory Law and Practice",
+      "author": "Sundaram & Varshney",
+      "department": "Commerce",
+      "price": "560",
+      "publisher": "Sultan Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5730",
+      "title": "Banking Theory Law and Practice",
+      "author": "Sundaram & Varshney",
+      "department": "Commerce",
+      "price": "560",
+      "publisher": "Sultan Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5731",
+      "title": "Company Law",
+      "author": "Avtar Singh",
+      "department": "Commerce",
+      "price": "610",
+      "publisher": "Eastern Book Company",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5732",
+      "title": "Company Law",
+      "author": "Avtar Singh",
+      "department": "Commerce",
+      "price": "610",
+      "publisher": "Eastern Book Company",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5733",
+      "title": "Entrepreneurship Development",
+      "author": "S. S. Khanka",
+      "department": "Commerce",
+      "price": "520",
+      "publisher": "S Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5734",
+      "title": "Entrepreneurship Development",
+      "author": "S. S. Khanka",
+      "department": "Commerce",
+      "price": "520",
+      "publisher": "S Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5735",
+      "title": "International Business",
+      "author": "Francis Cherunilam",
+      "department": "Commerce",
+      "price": "640",
+      "publisher": "Pearson",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5736",
+      "title": "International Business",
+      "author": "Francis Cherunilam",
+      "department": "Commerce",
+      "price": "640",
+      "publisher": "Pearson",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5737",
+      "title": "Management Accounting",
+      "author": "S. N. Maheshwari",
+      "department": "Commerce",
+      "price": "590",
+      "publisher": "Vikas Publishing",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5738",
+      "title": "Management Accounting",
+      "author": "S. N. Maheshwari",
+      "department": "Commerce",
+      "price": "590",
+      "publisher": "Vikas Publishing",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5739",
+      "title": "Management Accounting",
+      "author": "S. N. Maheshwari",
+      "department": "Commerce",
+      "price": "590",
+      "publisher": "Vikas Publishing",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5740",
+      "title": "Statistics for Management",
+      "author": "Levin & Rubin",
+      "department": "Commerce",
+      "price": "670",
+      "publisher": "Pearson",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5741",
+      "title": "Statistics for Management",
+      "author": "Levin & Rubin",
+      "department": "Commerce",
+      "price": "670",
+      "publisher": "Pearson",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5742",
+      "title": "Business Environment",
+      "author": "Francis Cherunilam",
+      "department": "Commerce",
+      "price": "430",
+      "publisher": "Himalaya Publishing",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5743",
+      "title": "Business Environment",
+      "author": "Francis Cherunilam",
+      "department": "Commerce",
+      "price": "430",
+      "publisher": "Himalaya Publishing",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5744",
+      "title": "E-Commerce",
+      "author": "Kenneth Laudon",
+      "department": "Commerce",
+      "price": "720",
+      "publisher": "Pearson",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5745",
+      "title": "E-Commerce",
+      "author": "Kenneth Laudon",
+      "department": "Commerce",
+      "price": "720",
+      "publisher": "Pearson",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5746",
+      "title": "Business Statistics",
+      "author": "S. P. Gupta",
+      "department": "Commerce",
+      "price": "510",
+      "publisher": "S Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5747",
+      "title": "Business Statistics",
+      "author": "S. P. Gupta",
+      "department": "Commerce",
+      "price": "510",
+      "publisher": "S Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5748",
+      "title": "Business Statistics",
+      "author": "S. P. Gupta",
+      "department": "Commerce",
+      "price": "510",
+      "publisher": "S Chand",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+
+    {
+      "id": "5749",
+      "title": "Organisational Behaviour",
+      "author": "Stephen P. Robbins",
+      "department": "Commerce",
+      "price": "690",
+      "publisher": "Pearson",
+      "university": "Periyar University",
+      "remarks": ""
+    },
+    {
+      "id": "5750",
+      "title": "Organisational Behaviour",
+      "author": "Stephen P. Robbins",
+      "department": "Commerce",
+      "price": "690",
+      "publisher": "Pearson",
+      "university": "Periyar University",
+      "remarks": ""
+    }
+  ]
+,
+
+  "borrowedBooks": [
+    {
+      "id": "b1",
+      "registerNo": "c23ug183csc001",
+      "studentName": "Arjun",
+      "accNo": "34",
+      "bookTitle": "Database Systems",
+      "issueDate": "2026-01-01",
+      "returnDate": "2026-01-10",
+      "status": "Returned",
+      "remarks": ""
+    },
+    {
+      "id": "b2",
+      "registerNo": "c23ug183csc002",
+      "studentName": "Priya",
+      "accNo": "34",
+      "bookTitle": "Database Systems",
+      "issueDate": "2026-01-05",
+      "returnDate": "2026-01-20",
+      "status": "Lost",
+      "remarks": "Not returned"
+    },
+    {
+      "id": "b3",
+      "registerNo": "c23ug183csc003",
+      "studentName": "Karthik",
+      "accNo": "213",
+      "bookTitle": "Physics Basics",
+      "issueDate": "2026-01-02",
+      "returnDate": "2026-01-12",
+      "status": "Returned",
+      "remarks": ""
+    },
+    {
+      "id": "b4",
+      "registerNo": "c23ug183csc004",
+      "studentName": "Divya",
+      "accNo": "213",
+      "bookTitle": "Physics Basics",
+      "issueDate": "2026-01-15",
+      "returnDate": "2026-01-25",
+      "status": "Damaged",
+      "remarks": "Cover torn"
+    },
+    {
+      "id": "b5",
+      "registerNo": "c23ug183csc005",
+      "studentName": "Rahul",
+      "accNo": "901",
+      "bookTitle": "Computer Networks",
+      "issueDate": "2026-01-03",
+      "returnDate": "2026-01-18",
+      "status": "Returned",
+      "remarks": ""
+    },
+    {
+      "id": "b6",
+      "registerNo": "c23ug183csc006",
+      "studentName": "Sneha",
+      "accNo": "902",
+      "bookTitle": "Operating Systems",
+      "issueDate": "2026-01-06",
+      "returnDate": "2026-01-22",
+      "status": "Partially Damaged",
+      "remarks": "Pages folded"
+    },
+    {
+      "id": "b7",
+      "registerNo": "c23ug183csc007",
+      "studentName": "Manoj",
+      "accNo": "903",
+      "bookTitle": "Data Structures",
+      "issueDate": "2026-01-08",
+      "returnDate": "2026-01-28",
+      "status": "Returned",
+      "remarks": ""
+    },
+    {
+      "id": "b8",
+      "registerNo": "c23ug183csc008",
+      "studentName": "Anitha",
+      "accNo": "801",
+      "bookTitle": "Business Studies",
+      "issueDate": "2026-01-04",
+      "returnDate": "2026-01-19",
+      "status": "Returned",
+      "remarks": ""
+    },
+    {
+      "id": "b9",
+      "registerNo": "c23ug183csc009",
+      "studentName": "Vignesh",
+      "accNo": "802",
+      "bookTitle": "Accounting Principles",
+      "issueDate": "2026-01-07",
+      "returnDate": "2026-01-21",
+      "status": "Returned",
+      "remarks": ""
+    },
+    {
+      "id": "b10",
+      "registerNo": "c23ug183csc010",
+      "studentName": "Sathish",
+      "accNo": "701",
+      "bookTitle": "Botany Basics",
+      "issueDate": "2026-01-09",
+      "returnDate": "2026-01-23",
+      "status": "Returned",
+      "remarks": ""
+    },
+    {
+      "id": "8804",
+      "registerNo": "c23ug183csc013",
+      "studentName": "karthick",
+      "accNo": "904",
+      "bookTitle": "Artificial Intelligence",
+      "issueDate": "2026-01-10",
+      "status": "Returned",
+      "returnDate": "2026-01-14",
+      "remarks": ""
+    },
+    {
+      "id": "099c",
+      "registerNo": "c23ug183csc021",
+      "studentName": "ravichandran",
+      "accNo": "A002",
+      "bookTitle": "Tamil Ilakkiyam",
+      "issueDate": "2026-01-12",
+      "status": "Borrowed"
+    },
+    {
+      "id": "e3df",
+      "registerNo": "c23ug183csc012",
+      "studentName": "hari balan",
+      "accNo": "A003",
+      "bookTitle": "English Grammar",
+      "issueDate": "2026-02-03",
+      "status": "Borrowed"
+    }
+  ]
+}
