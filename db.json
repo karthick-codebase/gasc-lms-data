@@ -1,1278 +1,1271 @@
 {
-
   "books": [
     {
       "id": "613",
+      "accNo": "613",
       "title": "Algebra Analytical Geometry of Trignometry",
       "author": "P. R. Vital, V. Malini",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "130",
       "publisher": "Margam Publisher Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-613"
     },
     {
       "id": "614",
+      "accNo": "614",
       "title": "Algebra Analytical Geometry of Trignometry",
       "author": "P. R. Vital, V. Malini",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "130",
       "publisher": "Margam Publisher Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-614"
     },
     {
       "id": "615",
+      "accNo": "615",
       "title": "Algebra Analytical Geometry of Trignometry",
       "author": "P. R. Vital, V. Malini",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "130",
       "publisher": "MargamPublisher Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-615"
     },
     {
       "id": "616",
+      "accNo": "616",
       "title": "Methods of Real Analysis",
       "author": "R. R. Gordbery",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "250",
       "publisher": "Margam Publisher Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-616"
     },
     {
       "id": "617",
+      "accNo": "617",
       "title": "Methods of Real Analysis",
       "author": "R. R. Gordbery",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "250",
       "publisher": "Margam Publisher Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-617"
     },
     {
       "id": "618",
+      "accNo": "618",
       "title": "Methods of Real Analysis",
       "author": "R. R. Gordbery",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "250",
       "publisher": "Margam Publisher Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-618"
     },
     {
       "id": "619",
+      "accNo": "619",
       "title": "Methods of Real Analysis",
       "author": "R. R. Gordbery",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "250",
       "publisher": "Margam Publisher Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-619"
     },
     {
       "id": "620",
+      "accNo": "620",
       "title": "Methods of Real Analysis",
       "author": "R. R. Gordbery",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "250",
       "publisher": "Margam Publisher Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-620"
     },
     {
       "id": "621",
+      "accNo": "621",
       "title": "Quantitative Aptitude and Reasoning",
       "author": "R. V. Pravean",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "395",
       "publisher": "PHI Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-621"
     },
     {
       "id": "622",
+      "accNo": "622",
       "title": "Quantitative Aptitude and Reasoning",
       "author": "R. V. Pravean",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "395",
       "publisher": "PHI Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-622"
     },
     {
       "id": "623",
+      "accNo": "623",
       "title": "Quantitative Aptitude and Reasoning",
       "author": "R. V. Pravean",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "395",
       "publisher": "PHI Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-623"
     },
     {
       "id": "624",
+      "accNo": "624",
       "title": "Quantitative Aptitude and Reasoning",
       "author": "R. V. Pravean",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "395",
       "publisher": "PHI Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-624"
     },
     {
       "id": "625",
+      "accNo": "625",
       "title": "Quantitative Aptitude and Reasoning",
       "author": "R. V. Pravean",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "395",
       "publisher": "PHI Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-625"
     },
     {
       "id": "626",
+      "accNo": "626",
       "title": "Quantitative Aptitude",
       "author": "R. S. Agarwal",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "440",
       "publisher": "S.Chand & Co Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-626"
     },
     {
       "id": "627",
+      "accNo": "627",
       "title": "Quantitative Aptitude",
       "author": "R. S. Agarwal",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "440",
       "publisher": "S.Chand & Co Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-627"
     },
     {
       "id": "628",
+      "accNo": "628",
       "title": "Quantitative Aptitude",
       "author": "R. S. Agarwal",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "440",
       "publisher": "S.Chand & Co Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-628"
     },
     {
       "id": "629",
+      "accNo": "629",
       "title": "Quantitative Aptitude",
       "author": "R. S. Agarwal",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "440",
       "publisher": "S.Chand & Co Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-629"
     },
     {
       "id": "630",
+      "accNo": "630",
       "title": "Quantitative Aptitude",
       "author": "R. S. Agarwal",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "440",
       "publisher": "S.Chand & Co Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-630"
     },
-
     {
       "id": "631",
+      "accNo": "631",
       "title": "Trigonemetry",
       "author": "S. Narayanan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "75",
       "publisher": "S. Vishwanathan Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-631"
     },
     {
       "id": "632",
+      "accNo": "632",
       "title": "Trigonemetry",
       "author": "S. Narayanan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "75",
       "publisher": "S. Vishwanathan Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-632"
     },
     {
       "id": "633",
+      "accNo": "633",
       "title": "Trigonemetry",
       "author": "S. Narayanan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "75",
       "publisher": "S. Vishwanathan Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-633"
     },
     {
       "id": "634",
+      "accNo": "634",
       "title": "Trigonemetry",
       "author": "S. Narayanan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "75",
       "publisher": "S. Vishwanathan Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-634"
     },
     {
       "id": "635",
+      "accNo": "635",
       "title": "Trigonemetry",
       "author": "S. Narayanan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "75",
       "publisher": "S. Vishwanathan Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-635"
     },
-
     {
       "id": "636",
+      "accNo": "636",
       "title": "Machanics",
       "author": "S. Durai Pandiyan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "225",
       "publisher": "S.Chand & Co Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-636"
     },
     {
       "id": "637",
+      "accNo": "637",
       "title": "Machanics",
       "author": "S. Durai Pandiyan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "225",
       "publisher": "S.Chand & Co Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-637"
     },
     {
       "id": "638",
+      "accNo": "638",
       "title": "Machanics",
       "author": "S. Durai Pandiyan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "225",
       "publisher": "S.Chand & Co Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-638"
     },
     {
       "id": "639",
+      "accNo": "639",
       "title": "Machanics",
       "author": "S. Durai Pandiyan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "225",
       "publisher": "S.Chand & Co Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-639"
     },
     {
       "id": "640",
+      "accNo": "640",
       "title": "Machanics",
       "author": "S. Durai Pandiyan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "225",
       "publisher": "S.Chand & Co Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-640"
     },
-
     {
       "id": "641",
+      "accNo": "641",
       "title": "Algebra Volume I",
       "author": "T.K. Manichavasagham Pillai, T. Nagarajan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "115",
       "publisher": "S. Vishwanathan Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-641"
     },
     {
       "id": "642",
+      "accNo": "642",
       "title": "Algebra Volume I",
       "author": "T.K. Manichavasagham Pillai, T. Nagarajan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "115",
       "publisher": "S. Vishwanathan Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-642"
     },
-
     {
       "id": "643",
+      "accNo": "643",
       "title": "Caluculas Volume I",
       "author": "T. Nagarajan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "115",
       "publisher": "S. Vishwanathan Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-643"
     },
     {
       "id": "644",
+      "accNo": "644",
       "title": "Caluculas Volume I",
       "author": "T. Nagarajan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "115",
       "publisher": "S. Vishwanathan Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-644"
     },
     {
       "id": "645",
+      "accNo": "645",
       "title": "Caluculas Volume I",
       "author": "T. Nagarajan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "115",
       "publisher": "S. Vishwanathan Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-645"
     },
     {
       "id": "646",
+      "accNo": "646",
       "title": "Caluculas Volume I",
       "author": "T. Nagarajan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "115",
       "publisher": "S. Vishwanathan Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-646"
     },
     {
       "id": "647",
+      "accNo": "647",
       "title": "Caluculas Volume I",
       "author": "T. Nagarajan",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "115",
       "publisher": "S. Vishwanathan Chennai",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-647"
     },
-
     {
       "id": "648",
+      "accNo": "648",
       "title": "An Elementary Introduction Mathemtical Finance",
       "author": "Shelcler M. Ross",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "325",
       "publisher": "Cambridge",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-648"
     },
     {
       "id": "649",
+      "accNo": "649",
       "title": "An Elementary Introduction Mathemtical Finance",
       "author": "Shelcler M. Ross",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "325",
       "publisher": "Cambridge",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-649"
     },
     {
       "id": "650",
+      "accNo": "650",
       "title": "An Elementary Introduction Mathemtical Finance",
       "author": "Shelcler M. Ross",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "325",
       "publisher": "Cambridge",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-650"
     },
     {
       "id": "651",
+      "accNo": "651",
       "title": "An Elementary Introduction Mathemtical Finance",
       "author": "Shelcler M. Ross",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "325",
       "publisher": "Cambridge",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-651"
     },
     {
       "id": "652",
+      "accNo": "652",
       "title": "An Elementary Introduction Mathemtical Finance",
       "author": "Shelcler M. Ross",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "325",
       "publisher": "Cambridge",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-652"
     },
-
     {
       "id": "653",
+      "accNo": "653",
       "title": "Numerical Mehods",
       "author": "E. BalaGurusamy",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "395",
       "publisher": "Tata Mc Grow Hill Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-653"
     },
     {
       "id": "654",
+      "accNo": "654",
       "title": "Numerical Mehods",
       "author": "E. BalaGurusamy",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "395",
       "publisher": "Tata Mc Grow Hill Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-654"
     },
     {
       "id": "655",
+      "accNo": "655",
       "title": "Numerical Mehods",
       "author": "E. BalaGurusamy",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "395",
       "publisher": "Tata Mc Grow Hill Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-655"
     },
     {
       "id": "656",
+      "accNo": "656",
       "title": "Numerical Mehods",
       "author": "E. BalaGurusamy",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "395",
       "publisher": "Tata Mc Grow Hill Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-656"
     },
     {
       "id": "657",
+      "accNo": "657",
       "title": "Numerical Mehods",
       "author": "E. BalaGurusamy",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "395",
       "publisher": "Tata Mc Grow Hill Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-657"
     },
-
     {
       "id": "658",
+      "accNo": "658",
       "title": "Numerical Mehthods for Engineer",
       "author": "Sterew C. Chopra",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "550",
       "publisher": "Tata Mc Grow Hill Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-658"
     },
     {
       "id": "659",
+      "accNo": "659",
       "title": "Numerical Mehthods for Engineer",
       "author": "Sterew C. Chopra",
-      "department": "Mathematics",
+      "genre": "Mathematics",
       "price": "550",
       "publisher": "Tata Mc Grow Hill Delhi",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "MAT-659"
     },
-
     {
       "id": "2795",
+      "accNo": "2795",
       "title": "Electricity and Magnetism",
       "author": "Edward M. Purcell",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "450",
       "publisher": "McGraw Hill",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2795"
     },
     {
       "id": "2796",
+      "accNo": "2796",
       "title": "Electricity and Magnetism",
       "author": "Edward M. Purcell",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "450",
       "publisher": "McGraw Hill",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2796"
     },
     {
       "id": "2797",
+      "accNo": "2797",
       "title": "Electricity and Magnetism",
       "author": "Edward M. Purcell",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "450",
       "publisher": "McGraw Hill",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2797"
     },
-
     {
       "id": "2798",
+      "accNo": "2798",
       "title": "Quantum Mechanics",
       "author": "V. K. Thankappan",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "350",
       "publisher": "Wiley Eastern",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2798"
     },
     {
       "id": "2799",
+      "accNo": "2799",
       "title": "Quantum Mechanics",
       "author": "V. K. Thankappan",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "350",
       "publisher": "Wiley Eastern",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2799"
     },
     {
       "id": "2800",
+      "accNo": "2800",
       "title": "Quantum Mechanics",
       "author": "V. K. Thankappan",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "350",
       "publisher": "Wiley Eastern",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2800"
     },
-
     {
       "id": "2801",
+      "accNo": "2801",
       "title": "Solid State Physics",
       "author": "C. Kittel",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "520",
       "publisher": "Wiley",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2801"
     },
     {
       "id": "2802",
+      "accNo": "2802",
       "title": "Solid State Physics",
       "author": "C. Kittel",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "520",
       "publisher": "Wiley",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2802"
     },
     {
       "id": "2803",
+      "accNo": "2803",
       "title": "Solid State Physics",
       "author": "C. Kittel",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "520",
       "publisher": "Wiley",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2803"
     },
-
     {
       "id": "2804",
+      "accNo": "2804",
       "title": "Thermal Physics",
       "author": "S. K. Garg",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "480",
       "publisher": "Tata McGraw Hill",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2804"
     },
     {
       "id": "2805",
+      "accNo": "2805",
       "title": "Thermal Physics",
       "author": "S. K. Garg",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "480",
       "publisher": "Tata McGraw Hill",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2805"
     },
-
     {
       "id": "2806",
+      "accNo": "2806",
       "title": "Electronics Devices and Circuits",
       "author": "Boylestad",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "550",
       "publisher": "Pearson",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2806"
     },
     {
       "id": "2807",
+      "accNo": "2807",
       "title": "Electronics Devices and Circuits",
       "author": "Boylestad",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "550",
       "publisher": "Pearson",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2807"
     },
-
     {
       "id": "2808",
+      "accNo": "2808",
       "title": "Optics",
       "author": "Ajoy Ghatak",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "600",
       "publisher": "McGraw Hill",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2808"
     },
     {
       "id": "2809",
+      "accNo": "2809",
       "title": "Optics",
       "author": "Ajoy Ghatak",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "600",
       "publisher": "McGraw Hill",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2809"
     },
-
     {
       "id": "2810",
+      "accNo": "2810",
       "title": "Nuclear Physics",
       "author": "D. C. Tayal",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "390",
       "publisher": "Himalaya Publishing",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2810"
     },
     {
       "id": "2811",
+      "accNo": "2811",
       "title": "Nuclear Physics",
       "author": "D. C. Tayal",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "390",
       "publisher": "Himalaya Publishing",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2811"
     },
-
     {
       "id": "2812",
+      "accNo": "2812",
       "title": "Classical Mechanics",
       "author": "Goldstein",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "720",
       "publisher": "Pearson",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2812"
     },
     {
       "id": "2813",
+      "accNo": "2813",
       "title": "Classical Mechanics",
       "author": "Goldstein",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "720",
       "publisher": "Pearson",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2813"
     },
-
     {
       "id": "2814",
+      "accNo": "2814",
       "title": "Mathematical Physics",
       "author": "B. D. Gupta",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "410",
       "publisher": "Vikas Publishing",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2814"
     },
     {
       "id": "2815",
+      "accNo": "2815",
       "title": "Mathematical Physics",
       "author": "B. D. Gupta",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "410",
       "publisher": "Vikas Publishing",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2815"
     },
-
     {
       "id": "2816",
+      "accNo": "2816",
       "title": "Atomic Physics",
       "author": "J. B. Rajam",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "360",
       "publisher": "S. Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2816"
     },
     {
       "id": "2817",
+      "accNo": "2817",
       "title": "Atomic Physics",
       "author": "J. B. Rajam",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "360",
       "publisher": "S. Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2817"
     },
-
     {
       "id": "2818",
+      "accNo": "2818",
       "title": "Electromagnetic Theory",
       "author": "B. B. Laud",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "430",
       "publisher": "Wiley Eastern",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2818"
     },
     {
       "id": "2819",
+      "accNo": "2819",
       "title": "Electromagnetic Theory",
       "author": "B. B. Laud",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "430",
       "publisher": "Wiley Eastern",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2819"
     },
-
     {
       "id": "2820",
+      "accNo": "2820",
       "title": "Statistical Mechanics",
       "author": "Pathria",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "680",
       "publisher": "Elsevier",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2820"
     },
     {
       "id": "2821",
+      "accNo": "2821",
       "title": "Statistical Mechanics",
       "author": "Pathria",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "680",
       "publisher": "Elsevier",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2821"
     },
-
     {
       "id": "2822",
+      "accNo": "2822",
       "title": "Modern Physics",
       "author": "Arthur Beiser",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "590",
       "publisher": "McGraw Hill",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2822"
     },
     {
       "id": "2823",
+      "accNo": "2823",
       "title": "Modern Physics",
       "author": "Arthur Beiser",
-      "department": "Physics",
+      "genre": "Physics",
       "price": "590",
       "publisher": "McGraw Hill",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "PHY-2823"
     },
-
     {
       "id": "5704",
+      "accNo": "5704",
       "title": "Financial Accounting",
       "author": "T. S. Grewal",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "620",
       "publisher": "Sultan Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5704"
     },
     {
       "id": "5705",
+      "accNo": "5705",
       "title": "Financial Accounting",
       "author": "T. S. Grewal",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "620",
       "publisher": "Sultan Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5705"
     },
     {
       "id": "5706",
+      "accNo": "5706",
       "title": "Financial Accounting",
       "author": "T. S. Grewal",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "620",
       "publisher": "Sultan Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5706"
     },
-
     {
       "id": "5707",
+      "accNo": "5707",
       "title": "Cost Accounting",
       "author": "B. M. Lall",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "540",
       "publisher": "Himalaya Publishing",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5707"
     },
     {
       "id": "5708",
+      "accNo": "5708",
       "title": "Cost Accounting",
       "author": "B. M. Lall",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "540",
       "publisher": "Himalaya Publishing",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5708"
     },
-
     {
       "id": "5709",
+      "accNo": "5709",
       "title": "Corporate Accounting",
       "author": "R. L. Gupta",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "580",
       "publisher": "Sultan Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5709"
     },
     {
       "id": "5710",
+      "accNo": "5710",
       "title": "Corporate Accounting",
       "author": "R. L. Gupta",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "580",
       "publisher": "Sultan Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5710"
     },
-
     {
       "id": "5711",
+      "accNo": "5711",
       "title": "Business Law",
       "author": "N. D. Kapoor",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "495",
       "publisher": "Sultan Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5711"
     },
     {
       "id": "5712",
+      "accNo": "5712",
       "title": "Business Law",
       "author": "N. D. Kapoor",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "495",
       "publisher": "Sultan Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5712"
     },
-
     {
       "id": "5713",
+      "accNo": "5713",
       "title": "Principles of Management",
       "author": "P. C. Tripathi",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "450",
       "publisher": "McGraw Hill",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5713"
     },
     {
       "id": "5714",
+      "accNo": "5714",
       "title": "Principles of Management",
       "author": "P. C. Tripathi",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "450",
       "publisher": "McGraw Hill",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5714"
     },
-
     {
       "id": "5715",
+      "accNo": "5715",
       "title": "Marketing Management",
       "author": "Philip Kotler",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "720",
       "publisher": "Pearson",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5715"
     },
     {
       "id": "5716",
+      "accNo": "5716",
       "title": "Marketing Management",
       "author": "Philip Kotler",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "720",
       "publisher": "Pearson",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5716"
     },
-
     {
       "id": "5717",
+      "accNo": "5717",
       "title": "Human Resource Management",
       "author": "C. B. Gupta",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "510",
       "publisher": "Sultan Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5717"
     },
     {
       "id": "5718",
+      "accNo": "5718",
       "title": "Human Resource Management",
       "author": "C. B. Gupta",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "510",
       "publisher": "Sultan Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5718"
     },
-
     {
       "id": "5719",
+      "accNo": "5719",
       "title": "Business Economics",
       "author": "H. L. Ahuja",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "460",
       "publisher": "S. Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5719"
     },
     {
       "id": "5720",
+      "accNo": "5720",
       "title": "Business Economics",
       "author": "H. L. Ahuja",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "460",
       "publisher": "S. Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5720"
     },
-
     {
       "id": "5721",
+      "accNo": "5721",
       "title": "Auditing",
       "author": "B. N. Tandon",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "480",
       "publisher": "Sultan Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5721"
     },
     {
       "id": "5722",
+      "accNo": "5722",
       "title": "Auditing",
       "author": "B. N. Tandon",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "480",
       "publisher": "Sultan Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5722"
     },
     {
       "id": "5723",
+      "accNo": "5723",
       "title": "Auditing",
       "author": "B. N. Tandon",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "480",
       "publisher": "Sultan Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5723"
     },
-
     {
       "id": "5724",
+      "accNo": "5724",
       "title": "Income Tax Law and Practice",
       "author": "Mehrotra",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "690",
       "publisher": "Sahitya Bhavan",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5724"
     },
     {
       "id": "5725",
+      "accNo": "5725",
       "title": "Income Tax Law and Practice",
       "author": "Mehrotra",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "690",
       "publisher": "Sahitya Bhavan",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5725"
     },
     {
       "id": "5726",
+      "accNo": "5726",
       "title": "Income Tax Law and Practice",
       "author": "Mehrotra",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "690",
       "publisher": "Sahitya Bhavan",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5726"
     },
     {
       "id": "5727",
+      "accNo": "5727",
       "title": "Income Tax Law and Practice",
       "author": "Mehrotra",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "690",
       "publisher": "Sahitya Bhavan",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5727"
     },
-
     {
       "id": "5728",
+      "accNo": "5728",
       "title": "Banking Theory Law and Practice",
       "author": "Sundaram & Varshney",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "560",
       "publisher": "Sultan Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5728"
     },
     {
       "id": "5729",
+      "accNo": "5729",
       "title": "Banking Theory Law and Practice",
       "author": "Sundaram & Varshney",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "560",
       "publisher": "Sultan Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5729"
     },
     {
       "id": "5730",
+      "accNo": "5730",
       "title": "Banking Theory Law and Practice",
       "author": "Sundaram & Varshney",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "560",
       "publisher": "Sultan Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5730"
     },
-
     {
       "id": "5731",
+      "accNo": "5731",
       "title": "Company Law",
       "author": "Avtar Singh",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "610",
       "publisher": "Eastern Book Company",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5731"
     },
     {
       "id": "5732",
+      "accNo": "5732",
       "title": "Company Law",
       "author": "Avtar Singh",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "610",
       "publisher": "Eastern Book Company",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5732"
     },
-
     {
       "id": "5733",
+      "accNo": "5733",
       "title": "Entrepreneurship Development",
       "author": "S. S. Khanka",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "520",
       "publisher": "S Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5733"
     },
     {
       "id": "5734",
+      "accNo": "5734",
       "title": "Entrepreneurship Development",
       "author": "S. S. Khanka",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "520",
       "publisher": "S Chand",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5734"
     },
-
     {
       "id": "5735",
+      "accNo": "5735",
       "title": "International Business",
       "author": "Francis Cherunilam",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "640",
       "publisher": "Pearson",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5735"
     },
     {
       "id": "5736",
+      "accNo": "5736",
       "title": "International Business",
       "author": "Francis Cherunilam",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "640",
       "publisher": "Pearson",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5736"
     },
-
     {
       "id": "5737",
+      "accNo": "5737",
       "title": "Management Accounting",
       "author": "S. N. Maheshwari",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "590",
       "publisher": "Vikas Publishing",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5737"
     },
     {
       "id": "5738",
+      "accNo": "5738",
       "title": "Management Accounting",
       "author": "S. N. Maheshwari",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "590",
       "publisher": "Vikas Publishing",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5738"
     },
     {
       "id": "5739",
+      "accNo": "5739",
       "title": "Management Accounting",
       "author": "S. N. Maheshwari",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "590",
       "publisher": "Vikas Publishing",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5739"
     },
-
     {
       "id": "5740",
+      "accNo": "5740",
       "title": "Statistics for Management",
       "author": "Levin & Rubin",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "670",
       "publisher": "Pearson",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5740"
     },
     {
       "id": "5741",
+      "accNo": "5741",
       "title": "Statistics for Management",
       "author": "Levin & Rubin",
-      "department": "Commerce",
+      "genre": "Commerce",
       "price": "670",
       "publisher": "Pearson",
-      "university": "Periyar University",
-      "remarks": ""
+      "supplier": "Periyar University",
+      "callNo": "COM-5741"
     },
-
     {
       "id": "5742",
-      "title": "Business Environment",
-      "author": "Francis Cherunilam",
-      "department": "Commerce",
-      "price": "430",
-      "publisher": "Himalaya Publishing",
-      "university": "Periyar University",
-      "remarks": ""
-    },
-    {
-      "id": "5743",
-      "title": "Business Environment",
-      "author": "Francis Cherunilam",
-      "department": "Commerce",
-      "price": "430",
-      "publisher": "Himalaya Publishing",
-      "university": "Periyar University",
-      "remarks": ""
-    },
-
-    {
-      "id": "5744",
-      "title": "E-Commerce",
-      "author": "Kenneth Laudon",
-      "department": "Commerce",
-      "price": "720",
-      "publisher": "Pearson",
-      "university": "Periyar University",
-      "remarks": ""
-    },
-    {
-      "id": "5745",
-      "title": "E-Commerce",
-      "author": "Kenneth Laudon",
-      "department": "Commerce",
-      "price": "720",
-      "publisher": "Pearson",
-      "university": "Periyar University",
-      "remarks": ""
-    },
-
-    {
-      "id": "5746",
-      "title": "Business Statistics",
-      "author": "S. P. Gupta",
-      "department": "Commerce",
-      "price": "510",
-      "publisher": "S Chand",
-      "university": "Periyar University",
-      "remarks": ""
-    },
-    {
-      "id": "5747",
-      "title": "Business Statistics",
-      "author": "S. P. Gupta",
-      "department": "Commerce",
-      "price": "510",
-      "publisher": "S Chand",
-      "university": "Periyar University",
-      "remarks": ""
-    },
-    {
-      "id": "5748",
-      "title": "Business Statistics",
-      "author": "S. P. Gupta",
-      "department": "Commerce",
-      "price": "510",
-      "publisher": "S Chand",
-      "university": "Periyar University",
-      "remarks": ""
-    },
-
-    {
-      "id": "5749",
-      "title": "Organisational Behaviour",
-      "author": "Stephen P. Robbins",
-      "department": "Commerce",
-      "price": "690",
-      "publisher": "Pearson",
-      "university": "Periyar University",
-      "remarks": ""
-    },
-    {
-      "id": "5750",
-      "title": "Organisational Behaviour",
-      "author": "Stephen P. Robbins",
-      "department": "Commerce",
-      "price": "690",
-      "publisher": "Pearson",
-      "university": "Periyar University",
-      "remarks": ""
+      "accNo": "5742",
+      "title": "Bus",
+      "author": "",
+      "genre": "Commerce",
+      "price": "",
+      "publisher": "",
+      "supplier": "Periyar University",
+      "callNo": "COM-5742"
     }
-  ]
-,
+  ],
 
   "borrowedBooks": [
     {
